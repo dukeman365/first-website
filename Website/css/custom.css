@@ -1,0 +1,29 @@
+:root {
+    --main-bg-color: #ffffff; 
+	--main-accent-color: #2a4362; 
+}
+
+body{
+	background-color:var(--main-bg-color);	
+}
+.home{
+
+}
+.home__images{
+margin-top:200px;
+}
+.home__images--individual{
+padding:50px;
+}
+.button{
+		background: none;
+		border: 2px solid var(--main-accent-color);
+}
+
+.resume__button{
+	margin:20px;
+}
+.button{
+		background: none;
+		border: 2px solid var(--main-accent-color);
+}
